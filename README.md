@@ -1,7 +1,7 @@
--   Hi, I’m Rohan.
--    I’m interested in App development/coding/machine learning.
--     I’m currently learning C++,...
--      📫 How to reach me, Email: saiful.alam32110@gmail.com
+-  Hi, I’m Rohan.
+-  I’m interested in App development/coding/machine learning.
+-  I’m currently learning C++,...
+-  📫 How to reach me, Email: saiful.alam32110@gmail.com
   
 
 <!---
