@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Rohan32110
-- 👀 I’m interested in App develpment/coding/machine learning
-- 🌱 I’m currently learning C++/java
-- 💞️ I’m looking to collaborate on prohects 
-- 📫 How to reach me
+-   Hi, I’m Rohan.
+-    I’m interested in App development/coding/machine learning.
+-     I’m currently learning C++,...
+-      📫 How to reach me, Email: saiful.alam32110@gmail.com
+  
 
 <!---
 Rohan32110/Rohan32110 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
