@@ -10,7 +10,7 @@ Figma • Adobe Illustrator • Basics of AI & Machine Learning
 
 ---
 
-### 👀 Interests
+### Interests
 - App Development
 - Coding & Software Engineering
 - Machine Learning & AI Research
@@ -38,10 +38,5 @@ Figma • Adobe Illustrator • Basics of AI & Machine Learning
 <img src="https://skillicons.dev/icons?i=cpp,python,ts,js,html,css,react,nodejs,express,mongodb,figma,ai,illustrator,git,github" />
 </p>
 
-
-### 🧠 Fun Fact  
-> The best code is the one that you can explain to a 5-year-old 😉
-
----
 
 ⭐ **If you like my work, consider giving a star to my repositories!**
