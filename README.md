@@ -24,11 +24,13 @@ Figma • Adobe Illustrator • Basics of AI & Machine Learning
 
 ### 🌐 Connect With Me
 <p align="left">
-<a href="#"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=discord" height="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
-</p>
 
+<a href="https://www.linkedin.com/in/mohammed-saiful-alam-rohan-497353279?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+&nbsp;&nbsp;
+
+</p>
 ---
 
 ### 🔧 Languages & Tools
